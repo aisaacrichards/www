@@ -17,6 +17,15 @@ buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+[author]
+name = "A. Isaac Richards"
+image = "img/author.jpg"
+headline = "I am an aspiring writer who is interested in the intersection of Artificial Intelligence and humanity."
+bio = "I write short stories about #artificialintelligence"
+links = [
+  { twitter = "https://twitter.com/aisaacrichards" }
+]
+
 [imaging]
   anchor = 'Center'
 
