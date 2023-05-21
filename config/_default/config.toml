@@ -18,7 +18,7 @@ buildFuture = false
 # googleAnalytics = "G-XXXXXXXXX"
 
 [author]
-name = "A. Isaac Richards"
+name = "Allen Isaac Richards"
 image = "img/air-avatar.png"
 headline = "I am an aspiring writer who is interested in the intersection of Artificial Intelligence and humanity."
 bio = "I write short stories about #artificialintelligence"
